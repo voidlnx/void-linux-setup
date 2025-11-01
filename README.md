@@ -1,2 +1,1 @@
-# void-linux-setup
-Test: ❌ 
+# Tutorial Void Linux Setup
